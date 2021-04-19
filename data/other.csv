@@ -11,6 +11,7 @@ Aberlistrasse,,,way
 Aebistrasse,,,way
 Aegertenstrasse,,,way
 Aehrenweg,,,way
+Ahornweg,,,way
 Alemannenstrasse,,,relation
 Alexandraweg,,,way
 Alleeweg,,,way
@@ -21,6 +22,7 @@ Altenbergrain,,,way
 Altenbergsteg,,,way
 Altenbergstrasse,,,way
 "Alter Aargauerstalden",,,relation
+"Alter Stationsweg",,,way
 Amietstrasse,,,way
 Amselweg,,,way
 Amthausgässchen,,,way
@@ -36,6 +38,7 @@ Armandweg,,,way
 Asterweg,,,way
 Asylweg,,,way
 Attinghausenstrasse,,,way
+"BSM 13G",,,way
 Bäckereiweg,,,way
 Badgasse,,,way
 Bahnhofplatz,,,way
@@ -48,6 +51,7 @@ Balmweg,,,way
 Balthasarstrasse,,,way
 Baltzerstrasse,,,way
 Bananenbrücke,,,way
+Bankgässchen,,,way
 Bantigerstrasse,,,relation
 Bantigerweg,,,relation
 "Barbara Lischetti-Platz",,,way
@@ -266,6 +270,7 @@ Gesellschaftsstrasse,,,way
 Gewerbestrasse,,,way
 Giacomettistrasse,,,way
 Giessereiweg,,,way
+Gigonweg,,,way
 Gilberte-de-Courgenay-Platz,,,way
 Ginsterweg,,,way
 Glockenstrasse,,,relation
@@ -442,6 +447,7 @@ Luft-Station,,,way
 Luisenstrasse,,,relation
 Luternauweg,,,way
 Mädergutstrasse,,,relation
+Magazinweg,,,way
 Maiglöggliweg,,,way
 Malerweg,,,way
 Mani-Matter-Stutz,,,way
@@ -465,10 +471,12 @@ Meisenweg,,,way
 Melchenbühlweg,,,way
 Melchiorstrasse,,,relation
 Melchtalstrasse,,,way
+Merkurgässli,,,way
 Merzenacker,,,way
 Messerliweg,,,way
 Metzgergässchen,,,relation
 Mezenerweg,,,way
+Milchgässli,,,way
 Militärstrasse,,,way
 Mindstrasse,,,way
 Mingerstrasse,,,relation
@@ -565,6 +573,7 @@ Peterweg,,,way
 Petitpierreweg,,,way
 Pfaffensteig,,,way
 Philosophenweg,,,way
+Pilgerweg,,,way
 Pillonweg,,,relation
 Platanenhof,,,relation
 Platanenweg,,,way
@@ -581,6 +590,7 @@ Quartierhof,,,way
 "Quartierplatz Jolimont",,,way
 Rabbentalstrasse,,,way
 Rabbentaltreppe,,,way
+Räbmatt,,,way
 Rad-wahn,,,way
 Radarstrasse,,,way
 Raineggweg,,,relation
@@ -614,6 +624,7 @@ Rosenbergstrasse,,,relation
 Rosenweg,,,way
 Rossfeldstrasse,,,way
 Rosshäusernstrasse,,,relation
+Rougemontweg,,,way
 Rüfenachtweg,,,way
 Rütlistrasse,,,way
 Ryffligässchen,,,way
@@ -668,6 +679,7 @@ Schützengässchen,,,way
 Schützenmattstrasse,,,way
 Schützenweg,,,way
 Schwabstrasse,,,relation
+Schwalbenweg,,,way
 Schwanengasse,,,way
 Schwarzenburgstrasse,,,way
 Schwarztorstrasse,,,relation
@@ -691,6 +703,7 @@ Siedlungsweg,,,way
 Simonstrasse,,,way
 Simplonweg,,,way
 Sinnerstrasse,,,way
+Sodweg,,,way
 Somazzistrasse,,,way
 Sonneggring,,,way
 Sonneggsteig,,,relation
@@ -700,6 +713,7 @@ Sonnenbergstrasse,,,way
 Sonnenhofweg,,,way
 Speichergasse,,,way
 Spelterinistrasse,,,way
+Spinnereiweg,,,way
 Spitalackerstrasse,,,way
 Spitalgass-Passage,,,way
 Spitalgasse,,,way
@@ -753,6 +767,7 @@ Tellplatz,,,way
 Tellstrasse,,,way
 "Teppich der Erinnerung",,,way
 Terrassenweg,,,way
+Theatergässchen,,,way
 Theaterplatz,,,way
 Thormannmätteliweg,,,way
 Thormannstrasse,,,way
@@ -767,6 +782,7 @@ Trachselweg,,,way
 Traffeletweg,,,way
 Trechselstrasse,,,way
 Troxlerrain,,,way
+Tschäppätstrasse,,,way
 Tscharnerstrasse,,,way
 Tulpenweg,,,relation
 Tumarkinweg,,,way
@@ -847,6 +863,7 @@ Winterholzstrasse,,,relation
 Wintermattweg,,,relation
 Wittigkofenweg,,,way
 Wohlenstrasse,,,relation
+Wölflistrasse,,,way
 Worblaufenstrasse,,,relation
 Worbstrasse,,,way
 "Wurm am Weg",,,way
