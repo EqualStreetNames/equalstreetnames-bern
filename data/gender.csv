@@ -1,7 +1,10 @@
-name,gender,wikidata,type
-Gertrud-Woker-Strasse,F,Q1515713,way
-Hardeggerstrasse,F,Q1895107,way
-Bridelstrasse,M,Q22261106,relation
-Kirchbergerstrasse,M,Q15621520,way
-Sahlistrasse,M,Q122191,way
-Zwyssigstrasse,M,Q667651,way
+name,source,gender,wikidata,type
+Apgarweg,wikidata,F,Q463891,way
+Gertrud-Woker-Strasse,wikidata,F,Q1515713,way
+Hardeggerstrasse,wikidata,F,Q1895107,way
+Jennerweg,wikidata,F,Q1712214,way
+Baltzerstrasse,wikidata,M,Q1465595,way
+Bridelstrasse,wikidata,M,Q22261106,relation
+Kirchbergerstrasse,wikidata,M,Q15621520,way
+Sahlistrasse,wikidata,M,Q122191,way
+Zwyssigstrasse,wikidata,M,Q667651,way
