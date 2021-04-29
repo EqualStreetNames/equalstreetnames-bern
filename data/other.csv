@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Mutachstrasse,wikidata,,Q99365079,way
 Aarbergergasse,,,,way
 Aarbergerhof,,,,way
 Aarbühlstrasse,,,,way
@@ -45,7 +46,6 @@ Bahnhofplatz,,,,way
 Bahnhöheweg,,,,relation
 Bahnstrasse,,,,way
 Balderstrasse,,,,way
-Balmerstrasse,,,,way
 Balmweg,,,,way
 Balthasarstrasse,,,,way
 Bananenbrücke,,,,way
@@ -87,9 +87,7 @@ Bolligenstrasse,,,,relation
 Bollwerk,,,,way
 Bomontiweg,,,,way
 Bonstettenstrasse,,,,way
-Bornweg,,,,way
 Bottigenstrasse,,,,relation
-Bovetstrasse,,,,way
 Brechbühlerstrasse,,,,relation
 Breitenrainplatz,,,,way
 Breitenrainstrasse,,,,way
@@ -126,7 +124,6 @@ Bundesgasse,,,,way
 Bundesplatz,,,,way
 Bundesrain,,,,way
 Bundesterrasse,,,,way
-Burckhardtstrasse,,,,way
 Bürenstrasse,,,,way
 Burgdorfholzstrasse,,,,way
 Burgernzielrain,,,,way
@@ -135,12 +132,10 @@ Burgfeldweg,,,,way
 Bürglenstrasse,,,,relation
 Burgtreppe,,,,way
 Burgunderstrasse,,,,relation
-Buristrasse,,,,way
 Bürkiweg,,,,way
 Cäcilienplatz,,,,way
 Cäcilienrain,,,,way
 Cäcilienstrasse,,,,way
-Carl-Lutz-Weg,,,,way
 "Carlo Giuliani-Platz",,,,way
 Casinoplatz,,,,way
 Cedernstrasse,,,,relation
@@ -173,7 +168,6 @@ Donnerbühlweg,,,,way
 Dorfplatz,,,,way
 Dorngasse,,,,way
 Drosselweg,,,,way
-Dübystrasse,,,,way
 Dufourstrasse,,,,relation
 Dunantstrasse,,,,way
 Dunkerstrasse,,,,way
@@ -181,13 +175,12 @@ Effingerstrasse,,,,relation
 Egelbergstrasse,,,,relation
 Egelgasse,,,,relation
 Egghölzlistrasse,,,,way
-Eggimannstrasse,,,,way
 Eichholzstrasse,,,,way
 Eichmattweg,,,,way
 Eigerplatz,,,,way
 Eigerstrasse,,,,way
 Einsteinstrasse,,,,way
-Einsteinterrasse,,,,relation
+Einsteinterrasse,,,,way
 Elfenauweg,,,,way
 Elfenstrasse,,,,way
 Elisabethenstrasse,,,,way
@@ -263,10 +256,8 @@ Genfergasse,,,,relation
 Genossenweg,,,,way
 Gerberngasse,,,,relation
 Gerechtigkeitsgasse,,,,relation
-Gertrud-Kurz-Weg,,,,way
 Gesellschaftsstrasse,,,,way
 Gewerbestrasse,,,,way
-Giacomettistrasse,,,,way
 Giessereiweg,,,,way
 Gigonweg,,,,way
 Gilberte-de-Courgenay-Platz,,,,way
@@ -288,10 +279,8 @@ Grüneckweg,,,,relation
 Grünerweg,,,,way
 Gryphenhübeliweg,,,,way
 Gsellstrasse,,,,way
-Guisanplatz,,,,relation
 Gurnigelweg,,,,way
 Gurtengasse,,,,way
-Gutenbergstrasse,,,,way
 Güterstrasse,,,,way
 Guyerplatz,,,,way
 Habsburgstrasse,,,,relation
@@ -316,7 +305,6 @@ Helvetiaplatz,,,,way
 Helvetiastrasse,,,,relation
 Herrengasse,,,,relation
 Herzogstrasse,,,,way
-Hesseweg,,,,way
 Hildanusstrasse,,,,way
 Hilfikerstrasse,,,,way
 Hiltystrasse,,,,way
@@ -342,7 +330,6 @@ Hostettlerweg,,,,way
 Hotelgasse,,,,way
 Hubelmattstrasse,,,,way
 Huberstrasse,,,,way
-Humboldtstrasse,,,,way
 Hüsliackerstrasse,,,,way
 Indermühleweg,,,,relation
 Industrieweg,,,,way
@@ -386,9 +373,7 @@ Kleefeldstrasse,,,,relation
 Klösterlistutz,,,,way
 Knospenweg,,,,relation
 Knüslihubelweg,,,,way
-Kochergasse,,,,way
 Kollerweg,,,,relation
-Königweg,,,,way
 Könizbergstrasse,,,,relation
 Könizstrasse,,,,relation
 Konradweg,,,,way
@@ -422,7 +407,6 @@ Le-Corbusier-Platz,,,,relation
 Lederstutz,,,,way
 Lenbrunnengässli,,,,way
 Lentulusrain,,,,way
-Lentulusstrasse,,,,way
 Lenzweg,,,,way
 Lerberstrasse,,,,way
 Lerchenweg,,,,way
@@ -447,7 +431,6 @@ Mädergutstrasse,,,,relation
 Magazinweg,,,,way
 Maiglöggliweg,,,,way
 Malerweg,,,,way
-Mani-Matter-Stutz,,,,way
 Mannenriedstrasse,,,,way
 Manuelstrasse,,,,way
 Marienstrasse,,,,relation
@@ -490,20 +473,17 @@ Morgenstrasse,,,,relation
 Morillonstrasse,,,,relation
 Moritzweg,,,,way
 Moserstrasse,,,,way
-Mottastrasse,,,,way
 Muesmattstrasse,,,,way
 Mühledorfstrasse,,,,way
 Mühlemattstrasse,,,,way
 Mühlenplatz,,,,way
 Mülinenstrasse,,,,way
-Müllerstrasse,,,,way
 Müngerstrasse,,,,way
 Münstergässchen,,,,way
 Münstergasse,,,,relation
 Münsterplattform,,,,way
 Münsterplatz,,,,way
 Münzgraben,,,,way
-Munzingerstrasse,,,,way
 Münzrain,,,,way
 Münzterrasse,,,,relation
 Muraltweg,,,,way
@@ -512,9 +492,7 @@ Muristrasse,,,,relation
 Murtenstrasse,,,,relation
 Museumstrasse,,,,way
 Müslinweg,,,,way
-Mutachstrasse,,,,way
 Myrtenweg,,,,relation
-Nägeligasse,,,,way
 Napoleonsbrücke,,,,way
 Nelkenweg,,,,way
 Neubrücke,,,,way
@@ -532,7 +510,6 @@ Niederbottigenweg,,,,way
 Niederfeldweg,,,,way
 Niederriedweg,,,,way
 Niesenweg,,,,way
-Niggelerstrasse,,,,way
 Nischenweg,,,,way
 Nordring,,,,way
 Nordweg,,,,way
@@ -553,7 +530,6 @@ Obereyfeldweg,,,,way
 Obermattstrasse,,,,relation
 Oberweg,,,,way
 Obstbergweg,,,,way
-Ochsenbeinstrasse,,,,way
 Olivenweg,,,,relation
 Optingenstrasse,,,,way
 Oranienburgstrasse,,,,way
@@ -565,7 +541,6 @@ Parkstrasse,,,,way
 Parkterrasse,,,,way
 Patriatreppe,,,,way
 Pavillonweg,,,,way
-Pestalozzistrasse,,,,way
 Peterweg,,,,way
 Petitpierreweg,,,,way
 Pfaffensteig,,,,way
@@ -596,7 +571,6 @@ Ralligplatz,,,,way
 Ralligweg,,,,way
 Ramuzstrasse,,,,way
 Randweg,,,,way
-Rappardplatz,,,,way
 Rathausgasse,,,,relation
 Rathausplatz,,,,relation
 Reckweg,,,,way
@@ -613,7 +587,6 @@ Riedweg,,,,way
 Ringoltingenstrasse,,,,way
 Robinsonweg,,,,way
 Rodtmattstrasse,,,,relation
-Rohrweg,,,,way
 Römerweg,,,,way
 Rosalia-Wenger-Platz,,,,way
 Roschistrasse,,,,way
@@ -640,11 +613,9 @@ Scharnachtalstrasse,,,,way
 Schauplatzgasse,,,,way
 Scheibenrain,,,,way
 Scheibenstrasse,,,,way
-Schenkstrasse,,,,way
 Schermenweg,,,,relation
 Scheuermattweg,,,,way
 Scheuerrain,,,,way
-Scheurerstrasse,,,,way
 Schiferliweg,,,,way
 Schifflaube,,,,way
 Schildknechtstrasse,,,,way
@@ -719,7 +690,6 @@ Sprengerweg,,,,relation
 Sprünglistrasse,,,,way
 Stadtbachstrasse,,,,way
 Stägmattsteg,,,,way
-Stämpflistrasse,,,,way
 Standstrasse,,,,way
 Stapfenackerstrasse,,,,relation
 Stapfenstrasse,,,,relation
@@ -740,7 +710,6 @@ Sternengässchen,,,,way
 Stettlerstrasse,,,,way
 Stöckackerstrasse,,,,relation
 Stockerenweg,,,,way
-Stoossstrasse,,,,way
 Storchengässchen,,,,way
 Strandweg,,,,way
 Studerstrasse,,,,way
@@ -775,14 +744,10 @@ Tiefenaustrasse,,,,way
 Tierparkweg,,,,way
 Tillierstrasse,,,,way
 Tinguelyweg,,,,way
-Trachselweg,,,,way
-Traffeletweg,,,,way
 Trechselstrasse,,,,way
 Troxlerrain,,,,way
-Tschäppätstrasse,,,,way
 Tscharnerstrasse,,,,way
 Tulpenweg,,,,relation
-Tumarkinweg,,,,way
 Tunnelweg,,,,way
 Turnierstrasse,,,,way
 Turnweg,,,,way
@@ -828,7 +793,6 @@ Warmbächliweg,,,,way
 Wasserwerkgasse,,,,relation
 Wattenwylweg,,,,relation
 Waudhüpferwäg,,,,way
-Weberstrasse,,,,way
 Wehrweg,,,,way
 Weidgasse,,,,way
 Weidmattweg,,,,relation
@@ -839,7 +803,6 @@ Weissenbühlweg,,,,way
 Weissensteinstrasse,,,,way
 Weissweg,,,,way
 Welle,,,,way
-Weltistrasse,,,,way
 Weltpoststrasse,,,,way
 Wendschatzstrasse,,,,way
 Werdtweg,,,,way
@@ -882,7 +845,6 @@ Zeughausgasse,,,,way
 Zibelegässli,,,,way
 Ziegelackerstrasse,,,,way
 Ziegeleiweg,,,,way
-Zieglerstrasse,,,,way
 Zielweg,,,,way
 Zikadenweg,,,,way
 Zinggstrasse,,,,way
