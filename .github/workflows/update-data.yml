@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: EqualStreetNames/equalstreetnames
+          repository: ${{ github.repository_owner }}/equalstreetnames
           persist-credentials: false
           submodules: true
       - name: Use PHP 7.4
@@ -66,7 +66,7 @@ jobs:
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
           directory: cities/switzerland/bern
-          repository: EqualStreetNames/equalstreetnames-bern
+          repository: ${{ github.repository }}
 
       - name: Commit repository
         if: ${{ github.event_name != 'pull_request' }}
@@ -81,4 +81,4 @@ jobs:
         if: ${{ github.event_name != 'pull_request' }}
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
-          repository: EqualStreetNames/equalstreetnames
+          repository: ${{ github.repository_owner }}/equalstreetnames
