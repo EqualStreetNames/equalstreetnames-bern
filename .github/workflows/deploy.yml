@@ -8,7 +8,8 @@ on:
     workflows: ["Update data"]
     types:
       - completed
-
+  workflow_dispatch:
+  
 defaults:
   run:
     working-directory: website
@@ -20,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          repository: EqualStreetNames/equalstreetnames
+          repository: ${{ github.repository_owner }}/equalstreetnames
           persist-credentials: false
           submodules: true
 
@@ -37,7 +38,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.2
         with:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          REPOSITORY_NAME: EqualStreetNames/equalstreetnames-bern
+          REPOSITORY_NAME: ${{ github.repository }}
           BRANCH: gh-pages # The branch the action should deploy to.
           FOLDER: 'website/dist/switzerland/bern' # The folder the action should deploy.
           CLEAN: true # Automatically remove deleted files from the deploy branch
