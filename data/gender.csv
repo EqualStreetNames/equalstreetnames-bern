@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Roschistrasse,wikidata,+,Q106676558;Q106676550,way
 Surbekstrasse,wikidata,+,Q1895470;Q2522597,way
 Alexandraweg,wikidata,F,Q57207,way
 Apgarweg,wikidata,F,Q463891,way
@@ -16,12 +17,14 @@ Helene-von-Mülinen-Treppe,wikidata,F,Q1602036,relation
 Hoffstrasse,wikidata,F,Q19959876,way
 Jennerweg,wikidata,F,Q1712214,way
 Klawastrasse,wikidata,F,Q23666560,way
+Lenzweg,wikidata,F,Q106676449,way
 Neuenschwanderstrasse,wikidata,F,Q2166467,way
 Rappardplatz,wikidata,F,Q17285487,way
 Rosalia-Wenger-Platz,wikidata,F,Q2166526,way
 Seilerstrasse,wikidata,F,Q42428984,way
 Somazzistrasse,wikidata,F,Q15432162,way
 Tumarkinweg,wikidata,F,Q124439,way
+Wildermettweg,wikidata,F,Q106676737,way
 Aberlistrasse,wikidata,M,Q124154,way
 Amietstrasse,wikidata,M,Q566797,way
 Ankerstrasse,wikidata,M,Q72510,relation
@@ -103,6 +106,7 @@ Mani-Matter-Stutz,wikidata,M,Q667551,way
 Manuelstrasse,wikidata,M,Q670805,way
 Matterstrasse,wikidata,M,Q20192083,way
 Max-Daetwyler-Platz,wikidata,M,Q121305,way
+Mezenerweg,wikidata,M,Q106676532,way
 Mindstrasse,wikidata,M,Q116606,way
 Mingerstrasse,wikidata,M,Q115808,relation
 Mittelholzerstrasse,wikidata,M,Q562310,way
@@ -157,9 +161,11 @@ Trechselstrasse,wikidata,M,Q55133994,way
 Troxlerrain,wikidata,M,Q686050,way
 Tschäppätstrasse,wikidata,M,Q120748;Q74144,way
 Vallottonweg,wikidata,M,Q123740,way
+Von-Gunten-Strasse,wikidata,M,Q106676598,way
 Waldmannstrasse,wikidata,M,Q124408,way
 Weberstrasse,wikidata,M,Q55903732,way
 Weingartstrasse,wikidata,M,Q1698592,way
+Weissweg,wikidata,M,Q106676618,way
 Weltistrasse,wikidata,M,Q690693,way
 Wernerstrasse,wikidata,M,Q683867,way
 Wildstrasse,wikidata,M,Q116307,way
