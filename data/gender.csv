@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 Roschistrasse,wikidata,+,Q106676558;Q106676550,way
 Surbekstrasse,wikidata,+,Q1895470;Q2522597,way
+Adamstrasse,wikidata,F,Q24579069,way
 Alexandraweg,wikidata,F,Q57207,way
 Apgarweg,wikidata,F,Q463891,way
 Barbara-Lischetti-Platz,wikidata,F,Q106574160,way
@@ -23,6 +24,7 @@ Rappardplatz,wikidata,F,Q17285487,way
 Rosalia-Wenger-Platz,wikidata,F,Q2166526,way
 Seilerstrasse,wikidata,F,Q42428984,way
 Somazzistrasse,wikidata,F,Q15432162,way
+Trüsselstrasse,wikidata,F,Q88469842,way
 Tumarkinweg,wikidata,F,Q124439,way
 Wildermettweg,wikidata,F,Q106676737,way
 Aberlistrasse,wikidata,M,Q124154,way
@@ -67,7 +69,6 @@ Forrerstrasse,wikidata,M,Q118183,way
 Freudenbergerplatz,wikidata,M,Q2284963,way
 Friedlistrasse,wikidata,M,Q1334653,relation
 Frikartweg,wikidata,M,Q2430737,way
-Gardistrasse,wikidata,M,Q124549,way
 Giacomettistrasse,wikidata,M,Q671236,way
 Gigonweg,wikidata,M,Q59528991,way
 Gotthelfstrasse,wikidata,M,Q122358,way
