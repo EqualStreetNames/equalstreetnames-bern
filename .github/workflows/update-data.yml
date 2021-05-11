@@ -1,7 +1,7 @@
 name: Update data
 
 on:
-  # Run every daily at at 04:00 UTC
+  # Run every day at at 04:00 UTC
   schedule:
     - cron: "0 4 * * *"
   push:
