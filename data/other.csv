@@ -1,6 +1,5 @@
 name,source,gender,wikidata,type
 Bonstettenstrasse,wikidata,,Q892874,way
-Brügglerweg,wikidata,,Q16740357,relation
 Bundesbahnweg,wikidata,,Q83835,way
 Bürenstrasse,wikidata,,Q14548776,way
 Daxelhoferstrasse,wikidata,,Q1156777,way
@@ -15,10 +14,10 @@ Gruberstrasse,wikidata,,Q106676396,way
 Hauensteinweg,wikidata,,Q353948,way
 "Insula Dulcamara",wikidata,,Q85769566,way
 Kramburgstrasse,wikidata,,Q96322307,way
-Landoltstrasse,wikidata,,Q1611094,relation
 Lombachweg,wikidata,,Q15621703,way
 Luternauweg,wikidata,,Q1551898,way
 Mayweg,wikidata,,Q1914347,way
+"Monument im Fruchtland",wikidata,,Q106755347,way
 Morellweg,wikidata,,Q18324361,way
 Mutachstrasse,wikidata,,Q99365079,way
 Rickenweg,wikidata,,Q1454021,way
@@ -29,7 +28,6 @@ Thormannstrasse,wikidata,,Q24037842,way
 Tscharnerstrasse,wikidata,,Q2457483,way
 Von-Werdt-Passage,wikidata,,Q2560172,way
 Wagnerstrasse,wikidata,,Q18029347,way
-Wattenwylweg,wikidata,,Q1435639,relation
 Wendschatzstrasse,wikidata,,Q16321137,way
 Werdtweg,wikidata,,Q2560172,way
 Wyttenbachstrasse,wikidata,,Q2595876,way
@@ -60,6 +58,7 @@ Amselweg,,,,way
 Amthausgässchen,,,,way
 Amthausgasse,,,,way
 Anemonenweg,,,,relation
+Ankerstrasse,,,,relation
 Antoniergässchen,,,,way
 Archivstrasse,,,,way
 Armandweg,,,,way
@@ -94,8 +93,10 @@ Beundenfeldstrasse,,,,way
 Bibliotheksgässchen,,,,way
 Bienenstrasse,,,,way
 Bierhübeliweg,,,,way
+Billeweg,,,,relation
 "Bim Zytglogge",,,,way
 Birkenweg,,,,relation
+Bitziusstrasse,,,,relation
 Blockweg,,,,way
 Blumenbergstrasse,,,,way
 Blumensteinstrasse,,,,way
@@ -105,6 +106,7 @@ Bolligenstrasse,,,,relation
 Bollwerk,,,,way
 Bomontiweg,,,,way
 Bottigenstrasse,,,,relation
+Brechbühlerstrasse,,,,relation
 Breitenrainplatz,,,,way
 Breitenrainstrasse,,,,way
 Breiteweg,,,,relation
@@ -113,6 +115,7 @@ Bremgartenstrasse,,,,way
 Brückenstrasse,,,,relation
 Brückfeldstrasse,,,,way
 Brüggbodenstrasse,,,,way
+Brügglerweg,,,,relation
 Brünigweg,,,,way
 Brünnackerstrasse,,,,relation
 Brunnadernrain,,,,way
@@ -161,13 +164,14 @@ Dalmazibrücke,,,,way
 Dalmaziquai,,,,way
 Dalmazirain,,,,way
 Dammweg,,,,way
-Dändlikerrain,,,,way
 Depotstrasse,,,,way
+Dietlerstrasse,,,,relation
 Distelweg,,,,way
 Donnerbühlweg,,,,way
 Dorfplatz,,,,way
 Dorngasse,,,,way
 Drosselweg,,,,way
+Dufourstrasse,,,,relation
 Egelbergstrasse,,,,relation
 Egelgasse,,,,relation
 Egghölzlistrasse,,,,way
@@ -225,6 +229,7 @@ Friedbühlstrasse,,,,way
 Friedeckweg,,,,way
 Friedensstrasse,,,,way
 Friedheimweg,,,,way
+Friedlistrasse,,,,relation
 Frischingstrasse,,,,relation
 Frohbergweg,,,,way
 Fröschmattstrasse,,,,relation
@@ -259,7 +264,6 @@ Gryphenhübeliweg,,,,way
 Gurnigelweg,,,,way
 Gurtengasse,,,,way
 Güterstrasse,,,,way
-Habsburgerstrasse,,,,way
 Habsburgstrasse,,,,relation
 Hagröseliweg,,,,way
 Haldenstrasse,,,,relation
@@ -294,6 +298,7 @@ Hopfenweg,,,,way
 Hotelgasse,,,,way
 Hubelmattstrasse,,,,way
 Hüsliackerstrasse,,,,way
+Indermühleweg,,,,relation
 Industrieweg,,,,way
 Inselgasse,,,,way
 Jägerweg,,,,way
@@ -306,6 +311,7 @@ Jungfraustrasse,,,,relation
 Junkerngasse,,,,relation
 Jupiterstrasse,,,,way
 Jurastrasse,,,,way
+Justingerweg,,,,relation
 Käfiggässchen,,,,way
 Kaiserhaus-Passage,,,,way
 Kalcheggweg,,,,way
@@ -342,6 +348,7 @@ Kramgasse,,,,relation
 Kreuzgasse,,,,way
 Krippenstrasse,,,,way
 Kryptahof,,,,way
+Kuhnweg,,,,relation
 Kursaalstrasse,,,,way
 Kyburgstrasse,,,,way
 Ladenwandweg,,,,way
@@ -349,6 +356,7 @@ Lagerhausweg,,,,relation
 Lagerweg,,,,way
 Landenwand-Passerelle,,,,way
 Landhausweg,,,,way
+Landoltstrasse,,,,relation
 Ländteweg,,,,way
 Länggassstrasse,,,,way
 Langmauerweg,,,,way
@@ -402,7 +410,6 @@ Mittelstrasse,,,,way
 Monbijoubrücke,,,,way
 Monbijoustrasse,,,,relation
 Monreposweg,,,,way
-"Monument im Fruchtland",,,,way
 Moosweg,,,,way
 Morgartenstrasse,,,,way
 Morgenstrasse,,,,relation
@@ -572,6 +579,7 @@ Seelandweg,,,,way
 Seftausteg,,,,way
 Seftauweg,,,,way
 Seftigenstrasse,,,,relation
+Segantinistrasse,,,,relation
 Seidenweg,,,,way
 Selibühlweg,,,,relation
 Seminarstrasse,,,,way
@@ -591,6 +599,7 @@ Spinnereiweg,,,,way
 Spitalackerstrasse,,,,way
 Spitalgass-Passage,,,,way
 Spitalgasse,,,,way
+Spittelerstrasse,,,,relation
 Sprengerweg,,,,relation
 Stadtbachstrasse,,,,way
 Stägmattsteg,,,,way
@@ -625,6 +634,7 @@ Tannenweg,,,,way
 Taubenstrasse,,,,way
 Taubentränkeweg,,,,way
 Tavel-Terrasse,,,,way
+Tavelweg,,,,relation
 Tellplatz,,,,way
 Tellstrasse,,,,way
 "Teppich der Erinnerung",,,,way
@@ -676,6 +686,7 @@ Wankdorffeldstrasse,,,,way
 Wankdorfstrasse,,,,way
 Warmbächliweg,,,,way
 Wasserwerkgasse,,,,relation
+Wattenwylweg,,,,relation
 Waudhüpferwäg,,,,way
 Wehrweg,,,,way
 Weidgasse,,,,way
@@ -706,6 +717,7 @@ Wyderrain,,,,way
 Wylerfeldstrasse,,,,way
 Wylerringstrasse,,,,way
 Wylerstrasse,,,,way
+Wyssweg,,,,relation
 Zaunweg,,,,way
 Zeigerweg,,,,way
 Zelgstrasse,,,,way
