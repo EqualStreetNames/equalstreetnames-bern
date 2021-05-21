@@ -41,9 +41,9 @@ Böcklinstrasse,wikidata,M,Q123071,way
 Bornweg,wikidata,M,Q52155765,way
 Bovetstrasse,wikidata,M,Q694925,way
 Brechbühlerstrasse,wikidata,M,Q1234561,relation
-Bridelstrasse,wikidata,M,Q22261106,relation
+Bridelstrasse,wikidata,M,Q22261106,relation+way
 Bubenbergplatz,wikidata,M,Q124405,way
-Buchserstrasse,wikidata,M,Q329490,relation
+Buchserstrasse,wikidata,M,Q329490,relation+way
 Burckhardtstrasse,wikidata,M,Q52155990,way
 Buristrasse,wikidata,M,Q177330,way
 Bürkiweg,wikidata,M,Q96281196,way
@@ -57,7 +57,7 @@ Dunantstrasse,wikidata,M,Q12091,way
 Dunkerstrasse,wikidata,M,Q325117,way
 Eggimannstrasse,wikidata,M,Q106642108,way
 Einsteinstrasse,wikidata,M,Q937,way
-Einsteinterrasse,wikidata,M,Q937,relation
+Einsteinterrasse,wikidata,M,Q937,relation+way
 Ensingerstrasse,wikidata,M,Q99138,way
 Erlachstrasse,wikidata,M,Q123886,way
 Fellenbergstrasse,wikidata,M,Q116116,way
@@ -71,7 +71,7 @@ Gsellstrasse,wikidata,M,Q1330658,way
 Guisanplatz,wikidata,M,Q123497,relation
 Gutenbergstrasse,wikidata,M,Q8958,way
 Hallerstrasse,wikidata,M,Q123225,way
-Hallwylstrasse,wikidata,M,Q118091,relation
+Hallwylstrasse,wikidata,M,Q118091,relation+way
 Haslerstrasse,wikidata,M,Q1555924,way
 Herzogstrasse,wikidata,M,Q115838,way
 Hesseweg,wikidata,M,Q25973,way
@@ -90,7 +90,7 @@ Kistlerweg,wikidata,M,Q1379653,way
 Kochergasse,wikidata,M,Q115478,way
 Königweg,wikidata,M,Q1448404,way
 Kuhnweg,wikidata,M,Q1539803,relation
-Le-Corbusier-Platz,wikidata,M,Q4724,relation
+Le-Corbusier-Platz,wikidata,M,Q4724,relation+way
 Lentulusrain,wikidata,M,Q2158781,way
 Lentulusstrasse,wikidata,M,Q2158781,way
 Lerberstrasse,wikidata,M,Q55854765,way
@@ -102,7 +102,7 @@ Matterstrasse,wikidata,M,Q20192083,way
 Max-Daetwyler-Platz,wikidata,M,Q121305,way
 Mezenerweg,wikidata,M,Q106676532,way
 Mindstrasse,wikidata,M,Q116606,way
-Mingerstrasse,wikidata,M,Q115808,relation
+Mingerstrasse,wikidata,M,Q115808,relation+way
 Mittelholzerstrasse,wikidata,M,Q562310,way
 Mottastrasse,wikidata,M,Q559892,way
 Mülinenstrasse,wikidata,M,Q1990454,way
@@ -134,13 +134,13 @@ Schildknechtstrasse,wikidata,M,Q32156687,way
 Schillingstrasse,wikidata,M,Q115863,way
 Schläflistrasse,wikidata,M,Q669576,way
 Sickingerstrasse,wikidata,M,Q1479482,way
-Sidlerstrasse,wikidata,M,Q22920755,relation
+Sidlerstrasse,wikidata,M,Q22920755,relation+way
 Simonstrasse,wikidata,M,Q15621581,way
 Spelterinistrasse,wikidata,M,Q325349,way
 Sprünglistrasse,wikidata,M,Q1990466,way
 Stämpflistrasse,wikidata,M,Q662344,way
 Staufferstrasse,wikidata,M,Q117489,way
-Steigerweg,wikidata,M,Q121719,relation
+Steigerweg,wikidata,M,Q121719,relation+way
 Steinerstrasse,wikidata,M,Q123514,way
 Stoossstrasse,wikidata,M,Q1040717,way
 Studerstrasse,wikidata,M,Q118697,way
