@@ -417,7 +417,6 @@ Moserstrasse,,,,way
 Muesmattstrasse,,,,way
 Mühledorfstrasse,,,,way
 Mühlemattstrasse,,,,way
-Mühlenplatz,,,,way
 Münstergässchen,,,,way
 Münstergasse,,,,relation+way
 Münsterplattform,,,,way
@@ -611,6 +610,7 @@ Stauwehrrain,,,,way
 Steckweg,,,,way
 Stegenweg,,,,relation+way
 Steigerhubelstrasse,,,,way
+Steigerweg,,,,relation
 Steinauweg,,,,way
 Steinhölzliweg,,,,relation+way
 Sternengässchen,,,,way
@@ -676,7 +676,6 @@ Waldmeisterstrasse,,,,relation
 Waldstätterstrasse,,,,way
 Wallgasse,,,,way
 Wangenstrasse,,,,relation+way
-Wankdorfallee,,,,way
 Wankdorffeldstrasse,,,,way
 Wankdorfstrasse,,,,way
 Warmbächliweg,,,,way

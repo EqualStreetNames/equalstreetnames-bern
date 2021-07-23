@@ -9,6 +9,7 @@ Boehlenstrasse,wikidata,F,Q1897263,way
 Colombstrasse,wikidata,F,Q121168,relation
 Dändlikerrain,wikidata,F,Q94731721,way
 Dändlikerweg,wikidata,F,Q94731721,way
+Gardistrasse,wikidata,F,Q88469842,way
 Gertrud-Kurz-Weg,wikidata,F,Q1515607,way
 Gertrud-Woker-Strasse,wikidata,F,Q1515713,way
 Gilberte-de-Courgenay-Platz,wikidata,F,Q122839,way
@@ -24,8 +25,8 @@ Rappardplatz,wikidata,F,Q17285487,way
 Rosalia-Wenger-Platz,wikidata,F,Q2166526,way
 Seilerstrasse,wikidata,F,Q42428984,way
 Somazzistrasse,wikidata,F,Q15432162,way
-Trüsselstrasse,wikidata,F,Q88469842,way
 Tumarkinweg,wikidata,F,Q124439,way
+Wankdorfallee,wikidata,F,Q24579069,way
 Wildermettweg,wikidata,F,Q78075263,way
 Aberlistrasse,wikidata,M,Q124154,way
 Amietstrasse,wikidata,M,Q566797,way
@@ -140,7 +141,6 @@ Spelterinistrasse,wikidata,M,Q325349,way
 Sprünglistrasse,wikidata,M,Q1990466,way
 Stämpflistrasse,wikidata,M,Q662344,way
 Staufferstrasse,wikidata,M,Q117489,way
-Steigerweg,wikidata,M,Q121719,relation+way
 Steinerstrasse,wikidata,M,Q123514,way
 Stoossstrasse,wikidata,M,Q1040717,way
 Studerstrasse,wikidata,M,Q118697,way
