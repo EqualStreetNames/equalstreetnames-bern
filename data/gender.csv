@@ -1,5 +1,4 @@
 name,source,gender,wikidata,type
-Roschistrasse,wikidata,+,Q106676558;Q106676550,way
 Surbekstrasse,wikidata,+,Q1895470;Q2522597,way
 Adamstrasse,wikidata,F,Q24579069,way
 Alexandraweg,wikidata,F,Q57207,way
@@ -9,7 +8,6 @@ Boehlenstrasse,wikidata,F,Q1897263,way
 Colombstrasse,wikidata,F,Q121168,relation
 Dändlikerrain,wikidata,F,Q94731721,way
 Dändlikerweg,wikidata,F,Q94731721,way
-Gardistrasse,wikidata,F,Q88469842,way
 Gertrud-Kurz-Weg,wikidata,F,Q1515607,way
 Gertrud-Woker-Strasse,wikidata,F,Q1515713,way
 Gilberte-de-Courgenay-Platz,wikidata,F,Q122839,way
@@ -25,8 +23,8 @@ Rappardplatz,wikidata,F,Q17285487,way
 Rosalia-Wenger-Platz,wikidata,F,Q2166526,way
 Seilerstrasse,wikidata,F,Q42428984,way
 Somazzistrasse,wikidata,F,Q15432162,way
+Trüsselstrasse,wikidata,F,Q88469842,way
 Tumarkinweg,wikidata,F,Q124439,way
-Wankdorfallee,wikidata,F,Q24579069,way
 Wildermettweg,wikidata,F,Q78075263,way
 Wilkerstrasse,wikidata,F,Q1515710,relation
 Aberlistrasse,wikidata,M,Q124154,way
@@ -102,7 +100,6 @@ Mani-Matter-Stutz,wikidata,M,Q667551,way
 Manuelstrasse,wikidata,M,Q670805,way
 Matterstrasse,wikidata,M,Q20192083,way
 Max-Daetwyler-Platz,wikidata,M,Q121305,way
-Mezenerweg,wikidata,M,Q106676532,way
 Mindstrasse,wikidata,M,Q116606,way
 Mingerstrasse,wikidata,M,Q115808,relation+way
 Mittelholzerstrasse,wikidata,M,Q562310,way
@@ -122,6 +119,7 @@ Petitpierreweg,wikidata,M,Q664453,way
 Ramuzstrasse,wikidata,M,Q123635,way
 Ringoltingenstrasse,wikidata,M,Q57338485,way
 Rohrweg,wikidata,M,Q14289777,way
+Roschistrasse,wikidata,M,Q106676550,way
 Rougemontweg,wikidata,M,Q123698,way
 Rüfenachtweg,wikidata,M,Q120084,way
 Sagerstrasse,wikidata,M,Q15430386,way
