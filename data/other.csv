@@ -52,7 +52,7 @@ Alpenstrasse,,,,way
 Altenbergrain,,,,way
 Altenbergsteg,,,,way
 Altenbergstrasse,,,,way
-"Alter Aargauerstalden",,,,relation
+"Alter Aargauerstalden",,,,relation+way
 "Alter Stationsweg",,,,way
 Amselweg,,,,way
 Amthausgässchen,,,,way
@@ -116,7 +116,7 @@ Brückfeldstrasse,,,,way
 Brüggbodenstrasse,,,,way
 Brügglerweg,,,,relation
 Brünigweg,,,,way
-Brünnackerstrasse,,,,relation
+Brünnackerstrasse,,,,relation+way
 Brunnadernrain,,,,way
 Brunnadernstrasse,,,,way
 Brünnen,,,,way
@@ -159,6 +159,7 @@ Christoffelgasse,,,,way
 Chutzenstrasse,,,,way
 Dählhölzliweg,,,,relation
 Dahliaweg,,,,way
+Dahlienweg,,,,relation
 Dalmazibrücke,,,,way
 Dalmaziquai,,,,way
 Dalmazirain,,,,way
@@ -176,7 +177,7 @@ Egelgasse,,,,relation+way
 Egghölzlistrasse,,,,way
 Eichholzstrasse,,,,way
 Eichmattweg,,,,way
-Eigerplatz,,,,way
+Eigerplatz,,,,relation+way
 Eigerstrasse,,,,way
 Elfenauweg,,,,way
 Elfenstrasse,,,,way
@@ -269,7 +270,6 @@ Haldenstrasse,,,,relation+way
 Halenbrücke,,,,way
 Halenstrasse,,,,way
 Hallmattstrasse,,,,relation+way
-Hasleinsel,,,,relation
 Haspelgasse,,,,relation+way
 Haspelweg,,,,relation
 Hausmattweg,,,,way
@@ -285,11 +285,13 @@ Hochbühlweg,,,,way
 Hochfeldstrasse,,,,way
 Hochschulstrasse,,,,way
 Hofweg,,,,way
-Höheweg,,,,relation+way
+Höheweg,,,,relation
 Hohgantweg,,,,way
 Holenackerplatz,,,,way
 Holenackerstrasse,,,,way
 Holligenstrasse,,,,relation+way
+Holligerhof,,,,way
+Holligerplatz,,,,way
 Holzikofenweg,,,,way
 Holzweg,,,,way
 Hopfenrain,,,,way
@@ -327,7 +329,7 @@ Kirchackerweg,,,,relation
 Kirchbühlweg,,,,way
 Kirchenfeldbrücke,,,,way
 Kirchenfeldstrasse,,,,relation
-Klaraweg,,,,relation+way
+Klaraweg,,,,relation
 Kleefeldstrasse,,,,relation
 "Kleine Westtangente",,,,way
 "Kleiner Muristalden",,,,relation
@@ -349,10 +351,10 @@ Krippenstrasse,,,,way
 Kryptahof,,,,way
 Kursaalstrasse,,,,way
 Kyburgstrasse,,,,way
+Ladenwand-Passerelle,,,,way
 Ladenwandweg,,,,way
 Lagerhausweg,,,,relation+way
 Lagerweg,,,,way
-Landenwand-Passerelle,,,,way
 Landhausweg,,,,way
 Landoltstrasse,,,,relation
 Ländteweg,,,,way
@@ -403,6 +405,7 @@ Merzenacker,,,,way
 Messerliweg,,,,way
 Metzgergässchen,,,,relation
 Milchgässli,,,,way
+Milchstrasse,,,,relation
 Militärstrasse,,,,way
 Mittelstrasse,,,,way
 Monbijoubrücke,,,,way
@@ -510,7 +513,7 @@ Rehhagstrasse,,,,relation+way
 Reichenbachstrasse,,,,way
 Reiterstrasse,,,,relation+way
 Reservoirweg,,,,way
-Riedbachstrasse,,,,relation+way
+Riedbachstrasse,,,,way
 Riedeggweg,,,,way
 Riedernrain,,,,way
 Riedernstrasse,,,,way
@@ -614,7 +617,7 @@ Steigerweg,,,,relation
 Steinauweg,,,,way
 Steinhölzliweg,,,,relation+way
 Sternengässchen,,,,way
-Stöckackerstrasse,,,,relation+way
+Stöckackerstrasse,,,,way
 Stockerenweg,,,,way
 Storchengässchen,,,,way
 Strandweg,,,,way
@@ -642,7 +645,7 @@ Thunstrasse,,,,way
 Thüringstrasse,,,,relation
 Tiefenaustrasse,,,,way
 Tierparkweg,,,,way
-Tulpenweg,,,,relation+way
+Tulpenweg,,,,way
 Tunnelweg,,,,way
 Turnierstrasse,,,,way
 Turnweg,,,,way
@@ -700,8 +703,8 @@ Wildhainweg,,,,way
 Wildparkstrasse,,,,way
 Winkelriedstrasse,,,,way
 Winterfeldweg,,,,relation+way
-Winterholzstrasse,,,,relation+way
-Wintermattweg,,,,relation
+Winterholzstrasse,,,,way
+Wintermattweg,,,,way
 Wittigkofenweg,,,,way
 Wohlenstrasse,,,,relation
 Worblaufenstrasse,,,,relation

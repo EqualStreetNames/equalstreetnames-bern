@@ -11,7 +11,7 @@ Dändlikerweg,wikidata,F,Q94731721,way
 Gertrud-Kurz-Weg,wikidata,F,Q1515607,way
 Gertrud-Woker-Strasse,wikidata,F,Q1515713,way
 Gilberte-de-Courgenay-Platz,wikidata,F,Q122839,way
-Guyerplatz,wikidata,F,Q118435,way
+Guyerplatz,wikidata,F,Q118435,relation
 Hardeggerstrasse,wikidata,F,Q1895107,way
 Helene-von-Mülinen-Treppe,wikidata,F,Q1602036,relation
 Hoffstrasse,wikidata,F,Q19959876,way
@@ -167,4 +167,4 @@ Wyssweg,wikidata,M,Q116168,relation
 Zähringerstrasse,wikidata,M,Q690990,way
 Zieglerstrasse,wikidata,M,Q1504124,way
 Zwinglistrasse,wikidata,M,Q123034,way
-Zwyssigstrasse,wikidata,M,Q667651,way
+Zwyssigstrasse,wikidata,X,Q667651,way
