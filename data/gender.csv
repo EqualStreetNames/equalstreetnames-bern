@@ -2,8 +2,11 @@ name,source,gender,wikidata,type
 Surbekstrasse,wikidata,+,Q1895470;Q2522597,way
 Adamstrasse,wikidata,F,Q24579069,way
 Alexandraweg,wikidata,F,Q57207,way
+Anna-Seiler-Allee,wikidata,F,Q42428984,way
+Anna-von-Krauchtal-Weg,wikidata,F,Q96411161,way
 Apgarweg,wikidata,F,Q463891,way
 Barbara-Lischetti-Platz,wikidata,F,Q106574160,way
+Bela-von-Thun-Weg,wikidata,F,Q120914572,way
 Boehlenstrasse,wikidata,F,Q1897263,way
 Colombstrasse,wikidata,F,Q121168,relation
 Dändlikerrain,wikidata,F,Q94731721,way
@@ -18,6 +21,7 @@ Hoffstrasse,wikidata,F,Q19959876,way
 Jennerweg,wikidata,F,Q1712214,way
 Klawastrasse,wikidata,F,Q23666560,way
 Lenzweg,wikidata,F,Q106676449,way
+Mechthild-von-Seedorf-Weg,wikidata,F,Q96381720,way
 Rappardplatz,wikidata,F,Q17285487,way
 Rosalia-Wenger-Platz,wikidata,F,Q2166526,way
 Seilerstrasse,wikidata,F,Q42428984,way
