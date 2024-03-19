@@ -1,5 +1,8 @@
 name,source,gender,wikidata,type
+Bernstrasse,wikidata,,Q70,relation+way
+Bolligenstrasse,wikidata,,Q69160,relation+way
 Bonstettenstrasse,wikidata,,Q892874,way
+Bremgartenstrasse,wikidata,,Q68185,way
 Bundesbahnweg,wikidata,,Q83835,way
 Bürenstrasse,wikidata,,Q14548776,way
 Daxelhoferstrasse,wikidata,,Q1156777,way
@@ -8,11 +11,13 @@ Dittlingerweg,wikidata,,Q13573667,way
 Effingerstrasse,wikidata,,Q1296211,relation+way
 Europaplatz,wikidata,,Q8908,relation+way
 Fischerweg,wikidata,,Q1419966,way
+Freiburgstrasse,wikidata,,Q36378,relation+way
 Graffenriedweg,wikidata,,Q1541529,way
 Greyerzstrasse,wikidata,,Q20012495,way
 Hauensteinweg,wikidata,,Q353948,way
 Helvetiaplatz,wikidata,,Q15317,way
 "Insula Dulcamara",wikidata,,Q85769566,way
+Könizstrasse,wikidata,,Q64058,way
 Kramburgstrasse,wikidata,,Q96322307,way
 Lombachweg,wikidata,,Q15621703,way
 Luternauweg,wikidata,,Q1551898,way
@@ -20,7 +25,10 @@ Mayweg,wikidata,,Q1914347,way
 Mezenerweg,wikidata,,,way
 "Monument im Fruchtland",wikidata,,Q106755347,way
 Morellweg,wikidata,,Q18324361,way
+Muristrasse,wikidata,,Q69765,relation+way
+Murtenstrasse,wikidata,,Q68283,relation+way
 Mutachstrasse,wikidata,,Q99365079,way
+"Neue Murtenstrasse",wikidata,,Q68283,way
 Rickenweg,wikidata,,Q1454021,way
 Sinnerstrasse,wikidata,,Q2289463,way
 Stettlerstrasse,wikidata,,Q2346347,way
@@ -31,9 +39,10 @@ Von-Werdt-Passage,wikidata,,Q2560172,way
 Wagnerstrasse,wikidata,,Q18029347,way
 Wendschatzstrasse,wikidata,,Q16321137,way
 Werdtweg,wikidata,,Q2560172,way
+Worbstrasse,wikidata,,Q69732,way
 Wyttenbachstrasse,wikidata,,Q2595876,way
 Zeerlederstrasse,wikidata,,Q184406,way
-Aarbergergasse,,,,way
+Aarbergergasse,,,,relation
 Aarbergerhof,,,,way
 Aarbühlstrasse,,,,way
 Aargauerstalden,,,,relation+way
@@ -88,7 +97,6 @@ Beaumontweg,,,,way
 Belpstrasse,,,,way
 Benteliweg,,,,relation
 Bernastrasse,,,,way
-Bernstrasse,,,,relation+way
 Bethlehemstrasse,,,,way
 Beundenfeldstrasse,,,,way
 Bibliotheksgässchen,,,,way
@@ -103,7 +111,6 @@ Blumenbergstrasse,,,,way
 Blumensteinstrasse,,,,way
 Blumenweg,,,,way
 Bogenschützenstrasse,,,,way
-Bolligenstrasse,,,,relation+way
 Bollwerk,,,,way
 Bomontiweg,,,,way
 Bottigenstrasse,,,,relation+way
@@ -111,7 +118,6 @@ Breitenrainplatz,,,,way
 Breitenrainstrasse,,,,way
 Breiteweg,,,,relation+way
 Breitfeldstrasse,,,,way
-Bremgartenstrasse,,,,way
 Brückenstrasse,,,,relation+way
 Brückfeldstrasse,,,,way
 Brüggbodenstrasse,,,,way
@@ -220,7 +226,6 @@ Flurstrasse,,,,way
 Forsthausweg,,,,way
 Forstweg,,,,way
 Frankenstrasse,,,,relation
-Freiburgstrasse,,,,relation+way
 Freieckweg,,,,relation
 Freiestrasse,,,,way
 Fricktreppe,,,,way
@@ -284,7 +289,7 @@ Hochbühlweg,,,,way
 Hochfeldstrasse,,,,way
 Hochschulstrasse,,,,way
 Hofweg,,,,way
-Höheweg,,,,relation
+Höheweg,,,,relation+way
 Hohgantweg,,,,way
 Holenackerplatz,,,,way
 Holenackerstrasse,,,,way
@@ -338,7 +343,6 @@ Knospenweg,,,,relation
 Knüslihubelweg,,,,way
 Kollerweg,,,,relation
 Könizbergstrasse,,,,relation
-Könizstrasse,,,,way
 Konradweg,,,,way
 Konsumstrasse,,,,way
 Kornhausbrücke,,,,way
@@ -430,14 +434,11 @@ Münzgraben,,,,way
 Münzrain,,,,way
 Münzterrasse,,,,relation+way
 Murifeldweg,,,,way
-Muristrasse,,,,relation+way
-Murtenstrasse,,,,relation+way
 Museumstrasse,,,,way
 Myrtenweg,,,,relation+way
 Nelkenweg,,,,way
 Neubrücke,,,,way
 Neubrückstrasse,,,,relation+way
-"Neue Murtenstrasse",,,,way
 Neuengass-Passage,,,,way
 Neuengass-Unterführung,,,,way
 Neuengasse,,,,way
@@ -472,7 +473,7 @@ Obstbergweg,,,,way
 Olivenweg,,,,relation+way
 Optingenstrasse,,,,way
 Oranienburgstrasse,,,,way
-Ostermundigenstrasse,,,,relation+way
+Ostermundigenstrasse,,,,relation
 Ostring,,,,way
 Papiermühlestrasse,,,,relation+way
 Pappelweg,,,,way
@@ -711,7 +712,6 @@ Wintermattweg,,,,way
 Wittigkofenweg,,,,way
 Wohlenstrasse,,,,relation
 Worblaufenstrasse,,,,relation
-Worbstrasse,,,,way
 "Wurm am Weg",,,,way
 Wyderrain,,,,way
 Wylerfeldstrasse,,,,way
