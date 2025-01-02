@@ -3,6 +3,7 @@ Bernstrasse,wikidata,,Q70,relation+way
 Bolligenstrasse,wikidata,,Q69160,relation+way
 Bonstettenstrasse,wikidata,,Q892874,way
 Bremgartenstrasse,wikidata,,Q68185,way
+Brügglerweg,wikidata,,Q16740357,way
 Bundesbahnweg,wikidata,,Q83835,way
 Bürenstrasse,wikidata,,Q14548776,way
 Daxelhoferstrasse,wikidata,,Q1156777,way
@@ -50,6 +51,7 @@ Aarhaldenstrasse,,,,way
 Aarstrasse,,,,way
 Aarweg,,,,way
 Abendstrasse,,,,way
+Aberlistrasse,,,,relation
 Aebistrasse,,,,way
 Aegertenstrasse,,,,way
 Aehrenweg,,,,way
@@ -67,7 +69,7 @@ Altenbergstrasse,,,,way
 Amselweg,,,,way
 Amthausgässchen,,,,way
 Amthausgasse,,,,way
-Anemonenweg,,,,relation
+Anemonenweg,,,,way
 Ankerstrasse,,,,relation
 Antoniergässchen,,,,way
 Archivstrasse,,,,way
@@ -121,7 +123,6 @@ Breitfeldstrasse,,,,way
 Brückenstrasse,,,,relation+way
 Brückfeldstrasse,,,,way
 Brüggbodenstrasse,,,,way
-Brügglerweg,,,,relation
 Brünigweg,,,,way
 Brünnackerstrasse,,,,relation+way
 Brunnadernrain,,,,way
@@ -136,7 +137,7 @@ Bubenbergrain,,,,way
 Buchdruckerweg,,,,relation+way
 Buchenweg,,,,way
 Buchfeldweg,,,,way
-Buchseeweg,,,,relation+way
+Buchseeweg,,,,way
 Buchweg,,,,relation+way
 Bühlplatz,,,,way
 Bühlstrasse,,,,relation+way
@@ -193,7 +194,7 @@ Engepromenade,,,,way
 Engerain,,,,way
 Engeriedweg,,,,way
 Engestrasse,,,,way
-"Englische Anlagen",,,,relation
+"Englische Anlagen",,,,relation+way
 Erikaweg,,,,relation
 Erlenweg,,,,relation
 Eschenweg,,,,way
@@ -246,9 +247,9 @@ Gantrischstrasse,,,,relation+way
 Garbenweg,,,,way
 Gartenstrasse,,,,way
 Gasstrasse,,,,relation
-Genfergasse,,,,relation+way
+Genfergasse,,,,way
 Genossenweg,,,,way
-Gerberngasse,,,,relation+way
+Gerberngasse,,,,way
 Gerechtigkeitsgasse,,,,relation
 Gesellschaftsstrasse,,,,way
 Gewerbestrasse,,,,way
@@ -289,11 +290,11 @@ Hochbühlweg,,,,way
 Hochfeldstrasse,,,,way
 Hochschulstrasse,,,,way
 Hofweg,,,,way
-Höheweg,,,,relation+way
+Höheweg,,,,way
 Hohgantweg,,,,way
 Holenackerplatz,,,,way
 Holenackerstrasse,,,,way
-Holligenstrasse,,,,relation+way
+Holligenstrasse,,,,way
 Holligerhof,,,,way
 Holligerplatz,,,,way
 Holzikofenweg,,,,way
@@ -313,8 +314,8 @@ Jöggiackerstrasse,,,,way
 Jolimontstrasse,,,,way
 Jubiläumsplatz,,,,relation+way
 Jubiläumsstrasse,,,,relation
-Jungfraustrasse,,,,relation+way
-Junkerngasse,,,,relation
+Jungfraustrasse,,,,relation
+Junkerngasse,,,,way
 Jupiterstrasse,,,,way
 Jurastrasse,,,,way
 Justingerweg,,,,relation
@@ -325,7 +326,7 @@ Kanonenweg,,,,way
 Kapellenstrasse,,,,way
 Kappelenbrücke,,,,way
 Karl-Schenk-Passage,,,,way
-Kasernenstrasse,,,,relation+way
+Kasernenstrasse,,,,way
 Kasparstrasse,,,,relation
 Kastellweg,,,,way
 Kehrgasse,,,,relation+way
@@ -337,12 +338,12 @@ Kirchenfeldstrasse,,,,relation
 Klaraweg,,,,relation
 Kleefeldstrasse,,,,relation
 "Kleine Westtangente",,,,way
-"Kleiner Muristalden",,,,relation
+"Kleiner Muristalden",,,,way
 Klösterlistutz,,,,way
 Knospenweg,,,,relation
 Knüslihubelweg,,,,way
 Kollerweg,,,,relation
-Könizbergstrasse,,,,relation
+Könizbergstrasse,,,,way
 Konradweg,,,,way
 Konsumstrasse,,,,way
 Kornhausbrücke,,,,way
@@ -415,7 +416,7 @@ Milchstrasse,,,,relation
 Militärstrasse,,,,way
 Mittelstrasse,,,,way
 Monbijoubrücke,,,,way
-Monbijoustrasse,,,,relation+way
+Monbijoustrasse,,,,way
 Monreposweg,,,,way
 Moosweg,,,,way
 Morgartenstrasse,,,,way
@@ -423,6 +424,7 @@ Morgenstrasse,,,,relation+way
 Morillonstrasse,,,,relation+way
 Moritzweg,,,,way
 Moserstrasse,,,,way
+Mottastrasse,,,,relation
 Muesmattstrasse,,,,way
 Mühledorfstrasse,,,,way
 Mühlemattstrasse,,,,way
@@ -437,11 +439,10 @@ Murifeldweg,,,,way
 Museumstrasse,,,,way
 Myrtenweg,,,,relation+way
 Nelkenweg,,,,way
-Neubrücke,,,,way
 Neubrückstrasse,,,,relation+way
 Neuengass-Passage,,,,way
-Neuengass-Unterführung,,,,way
 Neuengasse,,,,way
+Neuengassunterführung,,,,way
 Neufeldstrasse,,,,way
 Neufeldtunnel,,,,way
 Neuhausweg,,,,relation+way
@@ -615,7 +616,7 @@ Stauffacherplatz,,,,way
 Stauffacherstrasse,,,,way
 Stauwehrrain,,,,way
 Steckweg,,,,way
-Stegenweg,,,,relation+way
+Stegenweg,,,,way
 Steigerhubelstrasse,,,,way
 Steigerweg,,,,relation
 Steinauweg,,,,way
@@ -657,7 +658,6 @@ Uferweg,,,,way
 Undo-endo,,,,way
 "Unterer Aareggweg",,,,way
 "Unteres Gerechtigkeitsgässchen",,,,way
-"Unterführung RBS",,,,way
 Untermattweg,,,,way
 Untertorbrücke,,,,way
 Vannazhalde,,,,way
