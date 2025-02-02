@@ -236,7 +236,7 @@ Friedeckweg,,,,way
 Friedensstrasse,,,,way
 Friedheimweg,,,,way
 Friedlistrasse,,,,relation
-Frischingstrasse,,,,relation
+Frischingstrasse,,,,way
 Frohbergweg,,,,way
 Fröschmattstrasse,,,,relation
 Funkerstrasse,,,,way
@@ -340,7 +340,7 @@ Kleefeldstrasse,,,,relation
 "Kleine Westtangente",,,,way
 "Kleiner Muristalden",,,,way
 Klösterlistutz,,,,way
-Knospenweg,,,,relation
+Knospenweg,,,,way
 Knüslihubelweg,,,,way
 Kollerweg,,,,relation
 Könizbergstrasse,,,,way
@@ -421,7 +421,7 @@ Monreposweg,,,,way
 Moosweg,,,,way
 Morgartenstrasse,,,,way
 Morgenstrasse,,,,relation+way
-Morillonstrasse,,,,relation+way
+Morillonstrasse,,,,way
 Moritzweg,,,,way
 Moserstrasse,,,,way
 Mottastrasse,,,,relation
@@ -543,7 +543,7 @@ Schärerstrasse,,,,way
 Schauplatzgasse,,,,way
 Scheibenrain,,,,way
 Scheibenstrasse,,,,way
-Schermenweg,,,,relation+way
+Schermenweg,,,,way
 Scheuermattweg,,,,way
 Scheuerrain,,,,way
 Schifflaube,,,,way
@@ -604,7 +604,7 @@ Spitalackerstrasse,,,,way
 Spitalgass-Passage,,,,way
 Spitalgasse,,,,way
 Spittelerstrasse,,,,relation
-Sprengerweg,,,,relation
+Sprengerweg,,,,way
 Stadtbachstrasse,,,,way
 Stägmattsteg,,,,way
 Standstrasse,,,,way
@@ -731,7 +731,7 @@ Zielweg,,,,way
 Zikadenweg,,,,way
 Zinggstrasse,,,,way
 "Zu Schmieden",,,,way
-Zypressenstrasse,,,,relation
+Zypressenstrasse,,,,way
 Zytglogge-Passage,,,,way
 Zytgloggelaube,,,,way
 "es promeniert",,,,way
