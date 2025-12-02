@@ -60,7 +60,6 @@ Beundenfeldstrasse,,,,way
 Bibliotheksgässchen,,,,way
 Bienenstrasse,,,,way
 Bierhübeliweg,,,,way
-Billeweg,,,,relation
 "Bim Zytglogge",,,,way
 Birkenweg,,,,relation+way
 Bitziusstrasse,,,,relation
@@ -74,7 +73,7 @@ Bomontiweg,,,,way
 Bottigenstrasse,,,,relation+way
 Breitenrainplatz,,,,way
 Breitenrainstrasse,,,,way
-Breiteweg,,,,relation+way
+Breiteweg,,,,way
 Breitfeldstrasse,,,,way
 Brückenstrasse,,,,relation+way
 Brückfeldstrasse,,,,way
@@ -94,7 +93,7 @@ Buchdruckerweg,,,,relation+way
 Buchenweg,,,,way
 Buchfeldweg,,,,way
 Buchseeweg,,,,way
-Buchweg,,,,relation+way
+Buchweg,,,,way
 Bühlplatz,,,,way
 Bühlstrasse,,,,relation+way
 Bümplizstrasse,,,,relation
@@ -283,7 +282,7 @@ Kapellenstrasse,,,,way
 Kappelenbrücke,,,,way
 Karl-Schenk-Passage,,,,way
 Kasernenstrasse,,,,way
-Kasparstrasse,,,,relation
+Kasparstrasse,,,,way
 Kastellweg,,,,way
 Kehrgasse,,,,relation+way
 Keltenstrasse,,,,relation+way
@@ -356,12 +355,12 @@ Marzilistrasse,,,,way
 Mattenenge,,,,way
 Mattenhofstrasse,,,,way
 Mattentreppe,,,,way
-Matzenriedstrasse,,,,relation+way
+Matzenriedstrasse,,,,way
 Mauerrain,,,,way
 Maulbeerstrasse,,,,way
 Meisenweg,,,,way
 Melchenbühlweg,,,,way
-Melchiorstrasse,,,,relation+way
+Melchiorstrasse,,,,way
 Melchtalstrasse,,,,way
 Merkurgässli,,,,way
 Merzenacker,,,,way
@@ -667,7 +666,6 @@ Winterholzstrasse,,,,way
 Wintermattweg,,,,way
 Wittigkofenweg,,,,way
 Wohlenstrasse,,,,relation
-Worblaufenstrasse,,,,relation
 "Wurm am Weg",,,,way
 Wyderrain,,,,way
 Wylerfeldstrasse,,,,way
@@ -677,7 +675,7 @@ Zaunweg,,,,way
 Zeigerweg,,,,way
 Zelgstrasse,,,,way
 Zeltweg,,,,way
-Zentweg,,,,relation+way
+Zentweg,,,,way
 Zeughaus-Passage,,,,way
 Zeughausgasse,,,,way
 Zibelegässli,,,,way
