@@ -62,7 +62,7 @@ Bibliotheksgässchen,,,,way
 Bienenstrasse,,,,way
 Bierhübeliweg,,,,way
 "Bim Zytglogge",,,,way
-Birkenweg,,,,relation+way
+Birkenweg,,,,way
 Bitziusstrasse,,,,relation
 Blockweg,,,,way
 Blumenbergstrasse,,,,way
@@ -74,12 +74,12 @@ Bomontiweg,,,,way
 Bottigenstrasse,,,,relation+way
 Breitenrainplatz,,,,way
 Breitenrainstrasse,,,,way
+Breitenreinstrasse,,,,way
 Breiteweg,,,,way
 Breitfeldstrasse,,,,way
 Brückenstrasse,,,,relation+way
 Brückfeldstrasse,,,,way
 Brüggbodenstrasse,,,,way
-Brünigweg,,,,way
 Brünnackerstrasse,,,,relation+way
 Brunnadernrain,,,,way
 Brunnadernstrasse,,,,way
@@ -213,7 +213,6 @@ Giessereiweg,,,,way
 Ginsterweg,,,,way
 Glockenstrasse,,,,relation+way
 Gotenstrasse,,,,way
-Gotthardweg,,,,way
 Goumoënsstrasse,,,,way
 Grabenpromenade,,,,way
 Granatweg,,,,way
@@ -340,7 +339,6 @@ Löchliweg,,,,way
 Lorbeerstrasse,,,,relation
 Lorrainebrücke,,,,way
 Lorrainestrasse,,,,way
-Lötschbergweg,,,,way
 Luft-Station,,,,way
 Luisenstrasse,,,,relation
 Mädergutstrasse,,,,relation
@@ -544,7 +542,6 @@ Seminarstrasse,,,,way
 Sempachstrasse,,,,way
 Sennweg,,,,way
 Siedlungsweg,,,,way
-Simplonweg,,,,way
 Sodweg,,,,way
 Sonneggring,,,,way
 Sonneggsteig,,,,relation+way
